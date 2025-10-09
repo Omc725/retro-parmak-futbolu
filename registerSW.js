@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/retro-parmak-futbolu/sw.js', { scope: '/retro-parmak-futbolu/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/parmak-futbolu3/sw.js', { scope: '/parmak-futbolu3/' })})}
