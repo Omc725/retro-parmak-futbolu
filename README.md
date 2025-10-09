@@ -1,8 +1,7 @@
 <file name="README.md">
 <div align="center">
 
-  <!-- BURAYA KENDİ BANNER RESMİNİZİ KOYABİLİRSİNİZ. ŞİMDİLİK PROJE SİMGESİNİ KULLANIYORUM -->
-  <img src="public/icon-512x512.avif" alt="Retro Parmak Futbolu Logosu" width="200"/>
+  <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/icon-512x512.avif" alt="Retro Parmak Futbolu Logosu" width="200"/>
 
   # Retro Parmak Futbolu
 
@@ -32,7 +31,7 @@
     *   ⚽ **Lig Modu:** Takımınızla tam bir sezon boyunca mücadele ederek puan tablosunun zirvesine tırmanın.
     *   🥇 **Turnuva Modu:** Eleme usulü maçlarla kupaya giden yolda rakiplerinizi bir bir geçin.
 *   **Gelişmiş Yapay Zeka:** Farklı zorluk seviyelerine sahip, akıllı ve rekabetçi yapay zeka rakipler.
-*   **Geniş Takım Yelpazesi:** Dünya genelinden onlarca lisanssız, hayali takım arasından favorinizi seçin.
+*   **Geniş Takım Yelpazesi:** Dünya genelinden onlarca takım arasından favorinizi seçin.
 *   **Kapsamlı Özelleştirme:** Oyun deneyiminizi kişiselleştirmek için farklı saha ve top stilleri.
 *   **PWA Desteği:** Oyunu cihazınıza bir uygulama gibi kurun ve internet olmadan da oynayın!
 
@@ -46,19 +45,19 @@ Oyun deneyiminizi kişiselleştirmek için mevcut olan saha ve top stilleri:
 
 | Saha 1 | Saha 2 | Saha 3 | Saha 4 |
 | :---: | :---: | :---: | :---: |
-| <img src="public/assets/fields/saha1.avif" width="200"> | <img src="public/assets/fields/saha2.avif" width="200"> | <img src="public/assets/fields/saha3.avif" width="200"> | <img src="public/assets/fields/saha4.avif" width="200"> |
+| <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha1.avif" width="200"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha2.avif" width="200"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha3.avif" width="200"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha4.avif" width="200"> |
 | **Saha 5** | **Saha 6** | **Saha 7** | **Saha 8** |
-| <img src="public/assets/fields/saha5.avif" width="200"> | <img src="public/assets/fields/saha6.avif" width="200"> | <img src="public/assets/fields/saha7.avif" width="200"> | <img src="public/assets/fields/saha8.avif" width="200"> |
+| <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha5.avif" width="200"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha6.avif" width="200"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha7.avif" width="200"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha8.avif" width="200"> |
 | **Saha 9** | **Saha 10** | **Saha 11** | **Saha 12** |
-| <img src="public/assets/fields/saha9.avif" width="200"> | <img src="public/assets/fields/saha10.avif" width="200"> | <img src="public/assets/fields/saha11.avif" width="200"> | <img src="public/assets/fields/saha12.avif" width="200"> |
+| <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha9.avif" width="200"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha10.avif" width="200"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha11.avif" width="200"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/fields/saha12.avif" width="200"> |
 
 ### Top Stilleri
 
 | Top 1 | Top 2 | Top 3 | Top 4 | Top 5 |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="public/assets/balls/top1.avif" width="80"> | <img src="public/assets/balls/top2.avif" width="80"> | <img src="public/assets/balls/top3.avif" width="80"> | <img src="public/assets/balls/top4.avif" width="80"> | <img src="public/assets/balls/top5.avif" width="80"> |
+| <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top1.avif" width="80"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top2.avif" width="80"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top3.avif" width="80"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top4.avif" width="80"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top5.avif" width="80"> |
 | **Top 6** | **Top 7** | **Top 8** | **Top 9** | **Top 10** |
-| <img src="public/assets/balls/top6.avif" width="80"> | <img src="public/assets/balls/top7.avif" width="80"> | <img src="public/assets/balls/top8.avif" width="80"> | <img src="public/assets/balls/top9.avif" width="80"> | <img src="public/assets/balls/top10.avif" width="80"> |
+| <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top6.avif" width="80"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top7.avif" width="80"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top8.avif" width="80"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top9.avif" width="80"> | <img src="https://raw.githubusercontent.com/Omc725/retro-parmak-futbolu/gh-pages/assets/balls/top10.avif" width="80"> |
 
 ---
 
@@ -119,14 +118,14 @@ Bu projeyi kendi bilgisayarınızda geliştirmek veya çalıştırmak isterseniz
     npm run dev
     ```
 
-5.  Tarayıcınızda `http://localhost:3000` adresini açın. Proje canlı olarak çalışmaya başlayacaktır.
+5.  Tarayıcınızda `http://localhost:3000` (veya terminalde belirtilen farklı bir port) adresini açın.
 
 ### 🛠️ Kullanılabilir Scriptler
 
 *   `npm run dev`: Geliştirme sunucusunu başlatır.
 *   `npm run build`: Projeyi `dist` klasörüne yayınlanmaya hazır hale getirir.
 *   `npm run deploy`: Projeyi derler ve GitHub Pages'e otomatik olarak yayınlar.
-*   `npm run optimize-assets`: `public/assets` klasöründeki tüm resimleri optimize eder, eskilerini siler ve koddaki dosya yollarını günceller.
+*   `npm run optimize-assets`: `public/assets` klasöründeki resimleri optimize eder, eskilerini siler ve koddaki dosya yollarını günceller.
 
 ---
 
